@@ -2,7 +2,7 @@
 This utility will help information security team to conduct audits and perform different security checks at company level. Refer below YouTube video for more details: 
 https://www.youtube.com/watch?v=WScbVH_9tSo
 
-Run auditor.vbs to validate your machine, It performs below security checks:
+Run ```auditor.vbs``` to validate your machine, It performs below security checks:
 1. Creds stored in browser
 2. Check access to cloud storage sites
 3. Anti-virus version check
